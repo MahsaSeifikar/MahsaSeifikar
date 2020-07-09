@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 - 🔭 I'm a data scientist.
 - 🌱 I'm currently learning how to be a machine learning engineering.
-- 😄 My favourite activities are swimming, walking, quilling.
+- 😄 My favourite activities are swimming, walking, quilling, socializing and dancing.
