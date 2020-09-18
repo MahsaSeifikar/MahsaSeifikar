@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
--->
 - 🔭 I'm a data scientist.
 - 🌱 I'm currently learning how to be a machine learning engineer.
 - 😄 My favourite activities are swimming, walking, quilling, socializing and dancing.
+
+-->
